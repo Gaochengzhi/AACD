@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1971px" height="733px" viewBox="0 0 1971 733" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <title>AsynchronousVsSynchronous</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AsynchronousVsSynchronous">
+            <rect fill="#FFFFFF" x="0" y="0" width="1971" height="733"></rect>
+            <g id="frame-axis" transform="translate(16.000000, 62.000000)">
+                <path id="Line-3" d="M491.520809,500.959586 L510.499999,510.501093 L491.479279,519.95954 L491.496,511.959 L52.4967213,510.999996 L50.9967249,510.996718 L51.0032823,507.996725 L52.5032787,508.000004 L491.503,508.959 L491.520809,500.959586 Z" fill="#282828" fill-rule="nonzero"></path>
+                <path id="Line-3-Copy" d="M52.5,58 L62,77 L54,77 L54,511 L51,511 L51,77 L43,77 L52.5,58 Z" fill="#282828" fill-rule="nonzero"></path>
+                <text id="Number-of-processes" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                    <tspan x="165.201172" y="563">Number of processes</tspan>
+                </text>
+                <text id="Execution-time" transform="translate(42.000000, 284.000000) rotate(270.000000) translate(-42.000000, -284.000000) " font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                    <tspan x="-39.9824219" y="279">Execution time</tspan>
+                </text>
+            </g>
+            <g id="process-line" transform="translate(60.000000, 140.000000)">
+                <text id="1" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                    <tspan x="417.048096" y="465">1</tspan>
+                </text>
+                <text id="0" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                    <tspan x="1.0480957" y="465">0</tspan>
+                </text>
+                <line x1="424.5" y1="0.5" x2="424.5" y2="429.5" id="Line-4" stroke="#4F7BFD" stroke-width="3" stroke-linecap="square" stroke-dasharray="11"></line>
+                <line x1="424.5" y1="432.5" x2="424.5" y2="441.5" id="Line-5" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="8.5" y1="432.5" x2="8.5" y2="441.5" id="Line-5-Copy" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+            </g>
+            <g id="frame-axis-copy" transform="translate(647.000000, 62.000000)">
+                <path id="Line-3" d="M537,500 L556,509.5 L537,519 L537,511 L45,511 L45,508 L537,508 L537,500 Z" fill="#282828" fill-rule="nonzero"></path>
+                <path id="Line-3-Copy" d="M46.5,58 L56,77 L48,77 L48,511 L45,511 L45,77 L37,77 L46.5,58 Z" fill="#282828" fill-rule="nonzero"></path>
+                <text id="Number-of-processes" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                    <tspan x="165.201172" y="568">Number of processes</tspan>
+                </text>
+                <text id="Agent-1" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="240.830078" y="137">Agent 1</tspan>
+                </text>
+                <text id="Agent-2" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="403.830078" y="137">Agent 2</tspan>
+                </text>
+                <text id="Execution-time" transform="translate(36.000000, 284.000000) rotate(270.000000) translate(-36.000000, -284.000000) " font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                    <tspan x="-45.9824219" y="279">Execution time</tspan>
+                </text>
+                <g id="process-line-copy" transform="translate(38.000000, 77.000000)">
+                    <text id="1" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                        <tspan x="156.048096" y="465">1</tspan>
+                    </text>
+                    <text id="0" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                        <tspan x="1.0480957" y="465">0</tspan>
+                    </text>
+                    <line x1="163.5" y1="0.5" x2="163.5" y2="429.5" id="Line-4" stroke="#4F7BFD" stroke-width="3" stroke-linecap="square" stroke-dasharray="11"></line>
+                    <line x1="163.5" y1="432.5" x2="163.5" y2="441.5" id="Line-5" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                    <line x1="8.5" y1="432.5" x2="8.5" y2="441.5" id="Line-5-Copy-2" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                </g>
+                <text id="World-update" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="59.7939453" y="137">World update</tspan>
+                </text>
+                <g id="process-line-copy-2" transform="translate(351.000000, 77.000000)">
+                    <text id="2" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                        <tspan x="1.0480957" y="465">2</tspan>
+                    </text>
+                    <line x1="8.5" y1="0.5" x2="8.5" y2="429.5" id="Line-4" stroke="#4F7BFD" stroke-width="3" stroke-linecap="square" stroke-dasharray="11"></line>
+                    <line x1="8.5" y1="432.5" x2="8.5" y2="441.5" id="Line-5" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                </g>
+                <g id="process-line-copy-3" transform="translate(507.000000, 77.000000)">
+                    <text id="3" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                        <tspan x="1.0480957" y="465">3</tspan>
+                    </text>
+                    <line x1="8.5" y1="0.5" x2="8.5" y2="429.5" id="Line-4" stroke="#4F7BFD" stroke-width="3" stroke-linecap="square" stroke-dasharray="11"></line>
+                    <line x1="8.5" y1="432.5" x2="8.5" y2="441.5" id="Line-5" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                </g>
+            </g>
+            <g id="frame-axis-copy-2" transform="translate(1265.000000, 65.000000)">
+                <path id="Line-3" d="M537,500 L556,509.5 L537,519 L537,510.999 L45,511 L45,508 L537,507.999 L537,500 Z" fill="#282828" fill-rule="nonzero"></path>
+                <path id="Line-3-Copy" d="M46.5,58 L56,77 L48,76.999 L48,511 L45,511 L45,76.999 L37,77 L46.5,58 Z" fill="#282828" fill-rule="nonzero"></path>
+                <text id="Number-of-processes" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                    <tspan x="165.201172" y="568">Number of processes</tspan>
+                </text>
+                <text id="Agent-1" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="240.830078" y="147">Agent 1</tspan>
+                </text>
+                <text id="Agent-2" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="401.830078" y="166">Agent 2</tspan>
+                </text>
+                <text id="Execution-time" transform="translate(36.000000, 284.000000) rotate(270.000000) translate(-36.000000, -284.000000) " font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                    <tspan x="-45.9824219" y="279">Execution time</tspan>
+                </text>
+                <g id="process-line-copy" transform="translate(38.000000, 77.000000)">
+                    <text id="1" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                        <tspan x="156.048096" y="465">1</tspan>
+                    </text>
+                    <text id="0" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                        <tspan x="1.0480957" y="465">0</tspan>
+                    </text>
+                    <line x1="163.5" y1="0.5" x2="163.5" y2="429.5" id="Line-4" stroke="#4F7BFD" stroke-width="3" stroke-linecap="square" stroke-dasharray="11"></line>
+                    <line x1="163.5" y1="432.5" x2="163.5" y2="441.5" id="Line-5" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                    <line x1="8.5" y1="432.5" x2="8.5" y2="441.5" id="Line-5-Copy-2" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                </g>
+                <text id="World-update" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="59.7939453" y="181">World update</tspan>
+                </text>
+                <g id="process-line-copy-2" transform="translate(351.000000, 77.000000)">
+                    <text id="2" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                        <tspan x="1.0480957" y="465">2</tspan>
+                    </text>
+                    <line x1="8.5" y1="0.5" x2="8.5" y2="429.5" id="Line-4" stroke="#4F7BFD" stroke-width="3" stroke-linecap="square" stroke-dasharray="11"></line>
+                    <line x1="8.5" y1="432.5" x2="8.5" y2="441.5" id="Line-5" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                </g>
+                <g id="process-line-copy-3" transform="translate(507.000000, 77.000000)">
+                    <text id="3" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                        <tspan x="1.0480957" y="465">3</tspan>
+                    </text>
+                    <line x1="8.5" y1="0.5" x2="8.5" y2="429.5" id="Line-4" stroke="#4F7BFD" stroke-width="3" stroke-linecap="square" stroke-dasharray="11"></line>
+                    <line x1="8.5" y1="432.5" x2="8.5" y2="441.5" id="Line-5" stroke="#282828" stroke-width="3" stroke-linecap="square"></line>
+                </g>
+            </g>
+            <text id="(a)-Synchronous-Bloc" font-family="TimesNewRomanPSMT, Times New Roman" font-size="35" font-weight="normal" fill="#000000">
+                <tspan x="61.3659668" y="76">(a) Synchronous Blocking Update</tspan>
+            </text>
+            <text id="Simulation-world-upd" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                <tspan x="232.589355" y="699">Simulation world update</tspan>
+            </text>
+            <text id="Agent-update" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                <tspan x="732.128662" y="699">Agent update</tspan>
+            </text>
+            <text id="System-wait" font-family="Helvetica" font-size="25" font-weight="normal" fill="#000000">
+                <tspan x="1106.12329" y="699">System wait</tspan>
+            </text>
+            <text id="(b)-Asynchronous-Non" font-family="TimesNewRomanPSMT, Times New Roman" font-size="35" font-weight="normal" fill="#000000">
+                <tspan x="649.590088" y="76">(b) Asynchronous Non-blocking Update</tspan>
+            </text>
+            <text id="(c)-Asynchronous-Blo" font-family="TimesNewRomanPSMT, Times New Roman" font-size="35" font-weight="normal" fill="#000000">
+                <tspan x="1308.61597" y="76">(c) Asynchronous Blocking Update</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FF8035" x="696" y="551" width="149" height="17"></rect>
+            <g id="Group-3" transform="translate(696.000000, 399.000000)" fill="#FF8035">
+                <rect id="Rectangle-Copy-10" x="0" y="82" width="149" height="21"></rect>
+                <rect id="Rectangle-Copy-8" x="0" y="123" width="149" height="26"></rect>
+                <rect id="Rectangle-Copy-11" x="0" y="30" width="149" height="48"></rect>
+                <rect id="Rectangle-Copy-12" x="0" y="0" width="149" height="26"></rect>
+                <rect id="Rectangle-Copy-9" transform="translate(74.500000, 113.000000) scale(1, -1) translate(-74.500000, -113.000000) " x="0" y="107" width="149" height="12"></rect>
+            </g>
+            <g id="Group-3-Copy" transform="translate(853.000000, 366.000000)" fill="#4F9EFF">
+                <rect id="Rectangle-Copy-10" x="0" y="135" width="149" height="37"></rect>
+                <rect id="Rectangle-Copy-11" x="0" y="83" width="149" height="48"></rect>
+                <rect id="Rectangle-Copy-12" x="0" y="0" width="149" height="79"></rect>
+            </g>
+            <g id="Group-3-Copy-2" transform="translate(853.000000, 212.000000)" fill="#4F9EFF">
+                <rect id="Rectangle-Copy-10" x="0" y="82" width="149" height="37"></rect>
+                <rect id="Rectangle-Copy-8" x="0" y="123" width="149" height="26"></rect>
+                <g id="Group-4" transform="translate(157.000000, 50.000000)">
+                    <rect id="Rectangle-Copy-20" x="0" y="90" width="149" height="14"></rect>
+                    <rect id="Rectangle-Copy-21" x="0" y="60" width="149" height="26"></rect>
+                    <rect id="Rectangle-Copy-22" x="0" y="42" width="149" height="14"></rect>
+                    <rect id="Rectangle-Copy-23" x="0" y="18" width="149" height="20"></rect>
+                    <rect id="Rectangle-Copy-24" x="0" y="0" width="149" height="14"></rect>
+                </g>
+                <g id="Group-4-Copy-3" transform="translate(157.000000, 0.000000)">
+                    <rect id="Rectangle-Copy-20" x="0" y="90" width="149" height="14"></rect>
+                    <rect id="Rectangle-Copy-21" x="0" y="60" width="149" height="26"></rect>
+                    <rect id="Rectangle-Copy-22" x="0" y="42" width="149" height="14"></rect>
+                    <rect id="Rectangle-Copy-23" x="0" y="18" width="149" height="20"></rect>
+                    <rect id="Rectangle-Copy-24" x="0" y="0" width="149" height="14"></rect>
+                </g>
+                <g id="Group-4-Copy" transform="translate(157.000000, 149.000000)">
+                    <rect id="Rectangle-Copy-20" x="0" y="90" width="149" height="14"></rect>
+                    <rect id="Rectangle-Copy-21" x="0" y="60" width="149" height="26"></rect>
+                    <rect id="Rectangle-Copy-22" x="0" y="42" width="149" height="14"></rect>
+                    <rect id="Rectangle-Copy-23" x="0" y="18" width="149" height="20"></rect>
+                    <rect id="Rectangle-Copy-24" x="0" y="0" width="149" height="14"></rect>
+                </g>
+                <g id="Group-4-Copy-2" transform="translate(157.000000, 251.000000)">
+                    <rect id="Rectangle-Copy-21" x="0" y="60" width="149" height="26"></rect>
+                    <rect id="Rectangle-Copy-22" x="0" y="42" width="149" height="14"></rect>
+                    <rect id="Rectangle-Copy-23" x="0" y="18" width="149" height="20"></rect>
+                    <rect id="Rectangle-Copy-24" x="0" y="0" width="149" height="14"></rect>
+                </g>
+                <rect id="Rectangle-Copy-11" x="0" y="30" width="149" height="48"></rect>
+                <rect id="Rectangle-Copy-12" x="0" y="0" width="149" height="26"></rect>
+            </g>
+            <rect id="Rectangle-Copy-13" fill="#FF8035" x="696" y="339" width="149" height="41"></rect>
+            <rect id="Rectangle-Copy-14" fill="#FF8035" x="696" y="384" width="149" height="11"></rect>
+            <rect id="Rectangle-Copy-17" fill="#FF8035" x="696" y="265" width="149" height="11"></rect>
+            <rect id="Rectangle-Copy-18" fill="#FF8035" x="696" y="250" width="149" height="11"></rect>
+            <rect id="Rectangle-Copy-16" fill="#FF8035" x="696" y="280" width="149" height="17"></rect>
+            <rect id="Rectangle-Copy-15" fill="#FF8035" x="696" y="301" width="149" height="34"></rect>
+            <rect id="Rectangle-Copy-19" fill="#FF8035" x="696" y="212" width="149" height="34"></rect>
+            <g id="Group" transform="translate(70.000000, 440.000000)">
+                <rect id="Rectangle-Copy-2" fill="#FF8035" x="0" y="99" width="149" height="31"></rect>
+                <rect id="Rectangle-Copy-3" fill="#4F9EFF" x="20" y="66" width="149" height="31"></rect>
+                <rect id="Rectangle-Copy-4" fill="#4F9EFF" x="40" y="33" width="149" height="31"></rect>
+                <rect id="Rectangle-Copy-5" fill="#4F9EFF" x="60" y="0" width="149" height="31"></rect>
+                <text id="Agent-1" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="58.3300781" y="88">Agent 1</tspan>
+                </text>
+                <text id="World-update" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.7939453" y="122">World update</tspan>
+                </text>
+                <text id="Agent-2" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="77.3300781" y="55">Agent 2</tspan>
+                </text>
+                <text id="Agent-3" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="99.3300781" y="22">Agent 3</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(156.000000, 307.000000)">
+                <rect id="Rectangle-Copy-2" fill="#FF8035" x="0" y="99" width="149" height="31"></rect>
+                <rect id="Rectangle-Copy-3" fill="#4F9EFF" x="20" y="66" width="149" height="31"></rect>
+                <rect id="Rectangle-Copy-4" fill="#4F9EFF" x="40" y="33" width="149" height="31"></rect>
+                <rect id="Rectangle-Copy-5" fill="#4F9EFF" x="60" y="0" width="149" height="31"></rect>
+                <text id="Agent-1" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="58.3300781" y="88">Agent 1</tspan>
+                </text>
+                <text id="World-update" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.7939453" y="122">World update</tspan>
+                </text>
+                <text id="Agent-2" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="77.3300781" y="55">Agent 2</tspan>
+                </text>
+                <text id="Agent-3" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="99.3300781" y="22">Agent 3</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(247.000000, 140.000000)">
+                <g id="Group-2" transform="translate(0.000000, 133.000000)">
+                    <rect id="Rectangle-Copy-2" fill="#FF8035" x="0" y="0" width="149" height="31"></rect>
+                    <g id="World-update-2" transform="translate(0.000000, 4.000000)" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                        <text id="World-update">
+                            <tspan x="10.7939453" y="19">World update</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2-Copy" transform="translate(86.000000, 0.000000)">
+                    <rect id="Rectangle-Copy-2" fill="#FF8035" x="0" y="0" width="149" height="31"></rect>
+                    <g id="World-update-2" transform="translate(0.000000, 4.000000)" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                        <text id="World-update">
+                            <tspan x="10.7939453" y="19">World update</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="Rectangle-Copy-3" fill="#4F9EFF" x="20" y="100" width="149" height="31"></rect>
+                <rect id="Rectangle-Copy-4" fill="#4F9EFF" x="40" y="67" width="149" height="31"></rect>
+                <rect id="Rectangle-Copy-5" fill="#4F9EFF" x="60" y="34" width="149" height="31"></rect>
+                <text id="Agent-1" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="58.3300781" y="122">Agent 1</tspan>
+                </text>
+                <text id="Agent-2" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="77.3300781" y="89">Agent 2</tspan>
+                </text>
+                <text id="Agent-3" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="99.3300781" y="56">Agent 3</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-Copy" fill="#4F9EFF" x="564" y="675" width="149" height="31"></rect>
+            <rect id="Rectangle-Copy-48" fill="#D0D0D0" x="931" y="675" width="149" height="31"></rect>
+            <rect id="Rectangle-Copy-6" fill="#FF8035" x="60" y="675" width="149" height="31"></rect>
+            <rect id="Rectangle-Copy-7" fill="#FF8035" x="1315" y="532" width="149" height="39"></rect>
+            <rect id="Rectangle-Copy-35" fill="#D0D0D0" x="1315" y="498" width="149" height="34"></rect>
+            <rect id="Rectangle-Copy-38" fill="#D0D0D0" x="1471" y="462" width="149" height="32"></rect>
+            <rect id="Rectangle-Copy-39" fill="#D0D0D0" x="1471" y="380" width="149" height="38"></rect>
+            <rect id="Rectangle-Copy-40" fill="#D0D0D0" x="1470" y="303" width="149" height="32"></rect>
+            <rect id="Rectangle-Copy-41" fill="#D0D0D0" x="1470" y="226" width="149" height="42"></rect>
+            <rect id="Rectangle-Copy-47" fill="#D0D0D0" x="1315" y="260" width="149" height="40"></rect>
+            <rect id="Rectangle-Copy-42" fill="#D0D0D0" x="1629" y="246" width="149" height="31"></rect>
+            <rect id="Rectangle-Copy-43" fill="#D0D0D0" x="1629" y="323" width="149" height="31"></rect>
+            <rect id="Rectangle-Copy-44" fill="#D0D0D0" x="1629" y="400" width="149" height="33"></rect>
+            <rect id="Rectangle-Copy-46" fill="#D0D0D0" x="1629" y="484" width="149" height="26"></rect>
+            <rect id="Rectangle-Copy-36" fill="#D0D0D0" x="1315" y="421" width="149" height="14"></rect>
+            <rect id="Rectangle-Copy-37" fill="#D0D0D0" x="1315" y="344" width="149" height="25"></rect>
+            <rect id="Rectangle-Copy-25" fill="#FF8035" x="1315" y="435" width="149" height="60"></rect>
+            <rect id="Rectangle-Copy-28" fill="#4F9EFF" x="1471" y="493" width="149" height="43"></rect>
+            <rect id="Rectangle-Copy-29" fill="#4F9EFF" x="1471" y="417" width="149" height="42"></rect>
+            <rect id="Rectangle-Copy-30" fill="#4F9EFF" x="1470" y="335" width="149" height="42"></rect>
+            <rect id="Rectangle-Copy-31" fill="#4F9EFF" x="1470" y="268" width="149" height="32"></rect>
+            <rect id="Rectangle-Copy-32" fill="#4F9EFF" x="1629" y="277" width="149" height="43"></rect>
+            <rect id="Rectangle-Copy-33" fill="#4F9EFF" x="1629" y="352" width="149" height="45"></rect>
+            <rect id="Rectangle-Copy-45" fill="#4F9EFF" x="1629" y="432" width="149" height="49"></rect>
+            <rect id="Rectangle-Copy-34" fill="#4F9EFF" x="1629" y="509" width="149" height="49"></rect>
+            <rect id="Rectangle-Copy-26" fill="#FF8035" x="1315" y="369" width="149" height="49"></rect>
+            <rect id="Rectangle-Copy-27" fill="#FF8035" x="1315" y="276" width="149" height="65"></rect>
+            <line x1="71.5" y1="438.5" x2="484.5" y2="438.5" id="Line-6" stroke="#E40000" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,10"></line>
+            <line x1="71.5" y1="305.5" x2="484.5" y2="305.5" id="Line-6-Copy" stroke="#E40000" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,10"></line>
+            <line x1="71.5" y1="172.5" x2="484.5" y2="172.5" id="Line-6-Copy-2" stroke="#E40000" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,10"></line>
+            <text id="Blocking" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#E40000">
+                <tspan x="493.773438" y="444">Blocking</tspan>
+            </text>
+            <text id="Blocking" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#E40000">
+                <tspan x="493.773438" y="308">Blocking</tspan>
+            </text>
+            <text id="Blocking" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#E40000">
+                <tspan x="493.773438" y="174">Blocking</tspan>
+            </text>
+            <line x1="1313.5" y1="496.5" x2="1465.5" y2="496.5" id="Line-7" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1313.5" y1="419.5" x2="1465.5" y2="419.5" id="Line-7-Copy" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1313.5" y1="342.5" x2="1465.5" y2="342.5" id="Line-7-Copy-2" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1313.5" y1="258.5" x2="1465.5" y2="258.5" id="Line-7-Copy-3" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1469.5" y1="224.5" x2="1621.5" y2="224.5" id="Line-7-Copy-4" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1469.5" y1="301.5" x2="1621.5" y2="301.5" id="Line-7-Copy-5" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1469.5" y1="378.5" x2="1621.5" y2="378.5" id="Line-7-Copy-6" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1469.5" y1="460.5" x2="1621.5" y2="460.5" id="Line-7-Copy-7" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1469.5" y1="537.5" x2="1621.5" y2="537.5" id="Line-7-Copy-8" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1627.5" y1="559.5" x2="1780.5" y2="558.5" id="Line-7-Copy-9" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1627.5" y1="482.5" x2="1780.5" y2="482.5" id="Line-7-Copy-10" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1626.5" y1="398.5" x2="1784.5" y2="398.5" id="Line-7-Copy-11" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1627.5" y1="321.5" x2="1779.5" y2="321.5" id="Line-7-Copy-12" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <line x1="1628.5" y1="244.5" x2="1780.5" y2="244.5" id="Line-7-Copy-13" stroke="#E61717" stroke-width="3" stroke-linecap="square" stroke-dasharray="4,11"></line>
+            <g id="Group-5" transform="translate(1781.000000, 225.000000)" fill="#E61717" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <text id="Blocking">
+                    <tspan x="11.7734375" y="335">Blocking</tspan>
+                </text>
+                <text id="Blocking-Copy">
+                    <tspan x="11.7734375" y="258">Blocking</tspan>
+                </text>
+                <text id="Blocking-Copy-2">
+                    <tspan x="11.7734375" y="176">Blocking</tspan>
+                </text>
+                <text id="Blocking-Copy-3">
+                    <tspan x="11.7734375" y="96">Blocking</tspan>
+                </text>
+                <text id="Blocking-Copy-4">
+                    <tspan x="11.7734375" y="19">Blocking</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
