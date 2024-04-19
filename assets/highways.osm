@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='34.382' minlon='-98.4245' maxlat='34.48' maxlon='-98.3894' origin='osmfilter 1.4.4' />
+  <node id='145270314' action='delete' timestamp='2016-02-29T18:56:39Z' uid='92286' user='Baloo Uriza' visible='true' version='6' changeset='37527876' lat='34.3761576' lon='-98.4096303' />
+  <node id='145270316' action='delete' timestamp='2016-02-29T18:56:39Z' uid='92286' user='Baloo Uriza' visible='true' version='5' changeset='37527876' lat='34.3748476' lon='-98.4098153' />
+  <node id='452378818' timestamp='2018-06-08T03:51:48Z' uid='92286' user='Baloo Uriza' visible='true' version='4' changeset='59653891' lat='34.4489761' lon='-98.4096099' />
+  <node id='452378833' timestamp='2018-06-08T03:51:48Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='59653891' lat='34.4487758' lon='-98.4094734' />
+  <node id='4033444305' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.3735274' lon='-98.4100719' />
+  <node id='4033444306' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.3741883' lon='-98.4099432' />
+  <node id='4033444308' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.3755376' lon='-98.4097031' />
+  <node id='4033444311' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.3766622' lon='-98.4095972' />
+  <node id='4033444313' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.3770685' lon='-98.4095823' />
+  <node id='4033444314' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.3843536' lon='-98.4095352' />
+  <node id='4033444315' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.3843547' lon='-98.4094017' />
+  <node id='4033444316' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4101572' lon='-98.4095689' />
+  <node id='4033444317' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4101594' lon='-98.409442' />
+  <node id='4033444319' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4325262' lon='-98.4095928' />
+  <node id='4033444320' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4325317' lon='-98.4094594' />
+  <node id='4033444321' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4329963' lon='-98.4095936' />
+  <node id='4033444322' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4329985' lon='-98.4094639' />
+  <node id='4033444323' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4404314' lon='-98.4095984' />
+  <node id='4033444324' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4404325' lon='-98.4094709' />
+  <node id='4033444325' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4574516' lon='-98.4096163' />
+  <node id='4033444326' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4574538' lon='-98.4094892' />
+  <node id='4033444327' timestamp='2018-09-25T19:37:58Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='62925424' lat='34.4614307' lon='-98.4096151' />
+  <node id='4033444328' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4614301' lon='-98.4094881' />
+  <node id='4033444329' timestamp='2018-09-25T19:37:58Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='62925424' lat='34.4621124' lon='-98.4096133' />
+  <node id='4033444330' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4621168' lon='-98.4094922' />
+  <node id='4033444332' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4657607' lon='-98.40963' />
+  <node id='4033444333' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.465764' lon='-98.4095049' />
+  <node id='4033444334' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4717556' lon='-98.4096379' />
+  <node id='4033444335' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4717578' lon='-98.4095052' />
+  <node id='4033444336' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4816213' lon='-98.4096477' />
+  <node id='4033444337' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4816218' lon='-98.4095179' />
+  <node id='4033444338' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4826975' lon='-98.4095432' />
+  <node id='4033444339' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4827334' lon='-98.409674' />
+  <node id='4033444340' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4836222' lon='-98.4097196' />
+  <node id='4033444341' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4836283' lon='-98.4095942' />
+  <node id='4033444342' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4844314' lon='-98.4097866' />
+  <node id='4033444343' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4844684' lon='-98.4096586' />
+  <node id='4033444344' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4852184' lon='-98.4098671' />
+  <node id='4033444345' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4852687' lon='-98.4097471' />
+  <node id='4033444346' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4860011' lon='-98.409969' />
+  <node id='4033444347' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4860188' lon='-98.4098403' />
+  <node id='4033444348' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4868169' lon='-98.4100897' />
+  <node id='4033444349' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4868523' lon='-98.4099664' />
+  <node id='4033444350' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4874934' lon='-98.4102104' />
+  <node id='4033444351' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4875288' lon='-98.4100924' />
+  <node id='4033444352' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4882605' lon='-98.4103606' />
+  <node id='4033444353' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4882804' lon='-98.4102373' />
+  <node id='4033444354' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4889171' lon='-98.4105082' />
+  <node id='4033444355' action='delete' timestamp='2016-02-29T18:55:51Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4889392' lon='-98.4103848' />
+  <node id='4033444356' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4895914' lon='-98.4106771' />
+  <node id='4033444357' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4896224' lon='-98.4105538' />
+  <node id='4033444358' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.490584' lon='-98.41094' />
+  <node id='4033444359' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.490615' lon='-98.4108166' />
+  <node id='4033444360' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4917601' lon='-98.4112645' />
+  <node id='4033444361' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4918044' lon='-98.4111465' />
+  <node id='4033444362' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4926908' lon='-98.4115247' />
+  <node id='4033444363' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4927284' lon='-98.411404' />
+  <node id='4033444364' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4934314' lon='-98.4117286' />
+  <node id='4033444365' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4934513' lon='-98.4116052' />
+  <node id='4033444366' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4942184' lon='-98.4119297' />
+  <node id='4033444367' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4942427' lon='-98.4118063' />
+  <node id='4033444368' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.495054' lon='-98.4121202' />
+  <node id='4033444369' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4950717' lon='-98.4119941' />
+  <node id='4033444370' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.495925' lon='-98.4122972' />
+  <node id='4033444371' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4959471' lon='-98.4121684' />
+  <node id='4033444372' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4968556' lon='-98.4123321' />
+  <node id='4033444373' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4968556' lon='-98.4124581' />
+  <node id='4033444374' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4979874' lon='-98.4124876' />
+  <node id='4033444375' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4979874' lon='-98.4126164' />
+  <node id='4033444376' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.498781' lon='-98.4126995' />
+  <node id='4033444377' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4987877' lon='-98.4125761' />
+  <node id='4033444378' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4995901' lon='-98.4126459' />
+  <node id='4033444379' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.4996011' lon='-98.4127719' />
+  <node id='4033444380' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.5005428' lon='-98.4126995' />
+  <node id='4033444381' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.5005649' lon='-98.4128229' />
+  <node id='4033444382' action='delete' timestamp='2016-02-29T18:55:52Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.5014933' lon='-98.412721' />
+  <node id='4033444383' action='delete' timestamp='2016-02-29T18:55:53Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.5015087' lon='-98.4128497' />
+  <node id='4033444384' action='delete' timestamp='2016-02-29T18:55:53Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='37527876' lat='34.5024583' lon='-98.4127277' />
+  <node id='5674020311' action='delete' timestamp='2019-03-26T01:45:36Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='68527842' lat='34.4779824' lon='-98.4096441' />
+  <node id='5674020312' action='delete' timestamp='2019-03-26T01:45:36Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='68527842' lat='34.4779857' lon='-98.4095145' />
+  <node id='5674020313' action='delete' timestamp='2018-06-08T03:51:39Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4777668' lon='-98.4096439' />
+  <node id='5674020314' action='delete' timestamp='2018-06-08T03:51:39Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4777646' lon='-98.4095129' />
+  <node id='5674020315' timestamp='2018-06-08T03:51:39Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4489749' lon='-98.4094737' />
+  <node id='5674020316' timestamp='2018-06-08T03:51:39Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.448778' lon='-98.4096096' />
+  <node id='5674020317' timestamp='2018-06-08T03:51:40Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4199307' lon='-98.4095793' />
+  <node id='5674020318' timestamp='2018-06-08T03:51:40Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4197349' lon='-98.4095791' />
+  <node id='5674020319' timestamp='2018-06-08T03:51:40Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4199296' lon='-98.4094496' />
+  <node id='5674020320' timestamp='2018-06-08T03:51:40Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.419736' lon='-98.4094494' />
+  <node id='5674021721' timestamp='2018-06-08T03:51:40Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4054264' lon='-98.4095627' />
+  <node id='5674021722' timestamp='2018-06-08T03:51:40Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4056295' lon='-98.409563' />
+  <node id='5674021723' timestamp='2018-06-08T03:51:40Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4056322' lon='-98.4094349' />
+  <node id='5674021724' timestamp='2018-06-08T03:51:40Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='59653891' lat='34.4054347' lon='-98.4094346' />
+  <node id='6361533568' action='delete' timestamp='2019-03-26T01:27:42Z' uid='92286' user='Baloo Uriza' visible='true' version='1' changeset='68527842' lat='34.3783545' lon='-98.409441' />
+  <way id='14721388' action='delete' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='58' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='14737138' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='28' changeset='146828861'>
+    <nd ref='5674020315' />
+    <nd ref='4033444326' />
+    <nd ref='4033444328' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='290908536' action='delete' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='5' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='290908544' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='4033444327' />
+    <nd ref='4033444325' />
+    <nd ref='452378818' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837568' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <nd ref='4033444323' />
+    <nd ref='4033444321' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837570' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='4033444328' />
+    <nd ref='4033444330' />
+    <tag k='bridge' v='yes' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837573' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <nd ref='4033444321' />
+    <nd ref='4033444319' />
+    <tag k='bridge' v='yes' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837581' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='4033444324' />
+    <nd ref='452378833' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837587' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='4033444322' />
+    <nd ref='4033444324' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837590' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='4' changeset='146828861'>
+    <nd ref='4033444317' />
+    <nd ref='5674020320' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837593' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='4' changeset='146828861'>
+    <nd ref='4033444315' />
+    <nd ref='5674021724' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837594' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='452378818' />
+    <nd ref='5674020316' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='15&apos;9&quot;' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837596' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='4033444329' />
+    <nd ref='4033444327' />
+    <tag k='bridge' v='yes' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837603' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='4033444316' />
+    <nd ref='5674021722' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837606' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='4033444319' />
+    <nd ref='5674020317' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837608' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='4033444320' />
+    <nd ref='4033444322' />
+    <tag k='bridge' v='yes' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837610' action='delete' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837614' action='delete' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='400837615' action='delete' timestamp='2024-01-29T16:20:12Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282747' action='delete' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='15&apos;6&quot;' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282753' action='delete' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282759' action='delete' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282765' action='delete' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='15&apos;8&quot;' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282771' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='452378833' />
+    <nd ref='5674020315' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='15&apos;11&quot;' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282777' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <nd ref='5674020316' />
+    <nd ref='4033444323' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282782' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <nd ref='5674020318' />
+    <nd ref='4033444316' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282787' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <nd ref='5674020317' />
+    <nd ref='5674020318' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='15&apos;10&quot;' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282792' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='5674020319' />
+    <nd ref='4033444320' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282797' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='5674020320' />
+    <nd ref='5674020319' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='15&apos;9&quot;' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282802' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='5674021723' />
+    <nd ref='4033444317' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282807' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='3' changeset='146828861'>
+    <nd ref='5674021724' />
+    <nd ref='5674021723' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='15&apos;9&quot;' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282812' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <nd ref='5674021721' />
+    <nd ref='4033444314' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='595282817' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <nd ref='5674021722' />
+    <nd ref='5674021721' />
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxheight' v='15&apos;10&quot;' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+  <way id='679360723' action='delete' timestamp='2024-01-29T16:20:15Z' uid='92286' user='Baloo Uriza' visible='true' version='2' changeset='146828861'>
+    <tag k='hgv' v='designated' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='75 mph' />
+    <tag k='minspeed' v='50 mph' />
+    <tag k='name' v='Harry E. Bailey Turnpike' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='I 44' />
+    <tag k='toll' v='yes' />
+  </way>
+</osm>

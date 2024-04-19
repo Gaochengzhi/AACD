@@ -1,0 +1,47 @@
+# PortParameters:
+carla_port: 2000
+main_port: 6000
+ego_port: 6001
+pygame_port: 6002
+traffic_agent_port: 9981
+data_port: 9658
+base_port: 9985
+
+
+# PygameParameters:
+screen_width: 1920
+screen_height: 1080
+screen_main_width: 1080
+screen_main_height: 1080
+screen_fps: 25.0
+map_precision: 15
+
+# WorldParameters:
+carla_timeout: 26.0
+is_custum_map: False
+map_name: Town13
+actor_active_distance: 500
+hybrid_physics_radius: 500
+tile_stream_distance: 200
+synchronous_mode: True
+no_rendering_mode: False
+fps: 25
+fixed_delta_seconds: 0.03
+
+
+# WeatherParameters:
+cloudiness: 0.9
+precipitation: 0.9
+sun_altitude_angle: 20.0
+sun_azimuth_angle: 20.0
+
+# VehicelParameters:
+ignore_traffic_light: False
+
+# DebugParameters:
+camera_height: 60
+draw_global_waypoint: False
+draw_trajectory: False
+draw_spawn_points: False
+data_folder_path: ../data
+
